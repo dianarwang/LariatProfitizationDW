@@ -10,4 +10,5 @@ To devise profit optimization strategies using data analysis, and to deliver an 
 - Descriptive statistics, predictive modeling
 - Dashboarding
 
-
+### About:
+This was my first project under Thinkful's Data Analytics Immersion Program
